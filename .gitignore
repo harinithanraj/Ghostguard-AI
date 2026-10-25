@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+dataset/
+code.zip
+
+artifacts/*
+!artifacts/output.csv
